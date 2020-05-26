@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * 描述：
+ * 描述：订单控制层
  *
  * @ClassName OrderController
  * @Author 徐旭
